@@ -1,3 +1,3 @@
 # Tutorial
-Paste this in %appdata%
+Ext this and paste this in %appdata%
 Then run your Friday Night Funkin Launcher
